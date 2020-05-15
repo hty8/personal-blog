@@ -1,22 +1,25 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello world!
+date: 2020-05-15T19:24:08.824Z
+description: Is it too late?
 ---
 
-This is my first post on my new fake blog! How exciting!
+Hi! This is my first blog post.
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+For now, let me just settle in with this quote from [a blog post](https://robertgreiner.com/later-equals-never/) I've recently encountered:
+> Later never comes, do the work now and have something to show for your efforts.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+It's a blog post about software developers' common misunderstanding of "later" and how the work never gets done when they think they will do it later.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+However, I think this applies to most of the things in life as well. Because whenever you think you'll do or accomplish something in your life, but never act for it, it eventually becomes "too late".
+
+So, I guess in order to be happy with most of the things you're doing with your life, it's very important to find the right balance between these four sentences:
+
+
+"I'll do it later." <-> "Later never comes."
+
+"It's too late." <-> "It's never too late."
+
+Let's do things now.
